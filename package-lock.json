@@ -2,6 +2,11 @@
   "name": "michelantonio",
   "lockfileVersion": 2,
   "requires": true,
+  "scripts" : {
+    "preinstall" : "./configure",
+    "install" : "make && make install",
+    "test" : "make test"
+},
   "packages": {
     "": {
       "name": "michelantonio"
