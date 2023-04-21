@@ -1,0 +1,10 @@
+{
+  "name": "michelantonio",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "michelantonio"
+    }
+  }
+}
