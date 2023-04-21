@@ -3,8 +3,6 @@
   "lockfileVersion": 2,
   "requires": true,
   "scripts" : {
-    "preinstall" : "./configure",
-    "install" : "make && make install",
     "test" : "node index.js"
 },
   "packages": {
