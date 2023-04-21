@@ -1,6 +1,6 @@
 {
   "name": "@arocasan/michelantonio",
-  "lockfileVersion": 2,
+  "version": "2.3.0",
   "requires": true,
   "scripts" : {
     "test" : "node index.js"
